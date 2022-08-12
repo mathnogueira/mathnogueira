@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **mathnogueira/mathnogueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+⚡ Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.
+\- **Brian Kernighan**
+
+[![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathnogueira&hide=stars&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
