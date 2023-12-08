@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 ⚡ Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.
 \- **Brian Kernighan**
 
-[![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathnogueira&hide=stars&count_private=true&theme=radical&range=all_time)](https://github.com/anuraghazra/github-readme-stats)
+[![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathnogueira&count_private=true&theme=radical&range=all_time)](https://github.com/anuraghazra/github-readme-stats)
